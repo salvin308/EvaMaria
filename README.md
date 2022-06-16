@@ -58,6 +58,7 @@ You can deploy this bot anywhere.
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
+</details>
 
 <details><summary>Deploy To VPS</summary>
 <p>
