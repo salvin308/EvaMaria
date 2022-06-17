@@ -1,6 +1,7 @@
 {
-    "name": "EvaMariaBot",
+    "name": "Autofilter Bot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
+    "logo": "https://telegra.ph/file/6780f1e2706d1f9b78e5b.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -15,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "website": "https://github.com/salvin308/EvaMaria",
+    "repository": "https://github.com/salvin308/EvaMaria",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
